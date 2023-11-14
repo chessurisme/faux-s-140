@@ -1,0 +1,15 @@
+# Coverage
+coverage/
+
+# Node modules
+node_modules/
+
+# Build files
+public/build
+
+# Editor files
+.vscode/
+
+# OS generated files
+Thumbs.db
+.DS_Store

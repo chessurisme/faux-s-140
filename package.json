@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --coverage",
+    "test-watch": "jest --coverage --watch"
+  },
+  "keywords": [
+
+  ],
+  "author": "Chessur",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "lucide": "^0.292.0"
+  }
+}
