@@ -1,24 +1,27 @@
 {
   "name": "meeting-schedule-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automated S-140 generation where users manually assign individuals to parts. Titles and songs are pre-inputted for a hassle-free experience.",
   "main": "index.js",
   "directories": {
+    "doc": "docs",
     "test": "tests"
   },
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest --coverage --detectOpenHandles",
     "test-watch": "jest --coverage --watch"
   },
-  "keywords": [
-
-  ],
+  "keywords": [],
   "author": "Chessur",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "eslint": "^8.53.0",
     "jest": "^29.7.0"
   },
   "dependencies": {
+    "jsdom": "^22.1.0",
     "lucide": "^0.292.0"
   }
 }
