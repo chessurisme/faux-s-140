@@ -1,0 +1,63 @@
+[
+  {
+    "Nobyembre 13-19" : {
+      "01" : "Job 15-17",
+      "02": [90, 96, 118],
+      "03" : "",
+      "04" : ["", ""],
+      "05" : [
+        {
+          "id" : "pk",
+          "title" : "{{Ayawg Sundoga si Elipaz Dihang Maghatag ug Paghupay}}",
+          "mins" : "10",
+          "apportioned" : ""
+        },
+        {
+          "id" : "eb",
+          "mins" : "10",
+          "chair" : ""
+        },
+        {
+          "id" : "pb",
+          "mins" : "4",
+          "apportioned" : ""
+        }
+      ],
+      "06" : [
+        {
+          "id" : "vup",
+          "mins" : "5",
+          "title" : "Video sa Pagbalikduaw"
+        },
+        {
+          "id" : "pd",
+          "mins": "3",
+          "student": "",
+          "assistant" : ""
+        },
+        {
+          "id" : "psb",
+          "mins": "5",
+          "student": "",
+          "assistant" : ""
+        }
+      ],
+      "07": [
+        {
+          "id" : "lp",
+          "title" : "",
+          "mins" : "15"
+        },
+        {
+          "id" : "pkb",
+          "title" : "Pagtuon sa Kongregasyon sa Bibliya",
+          "mins" : "30",
+          "chair" : "",
+          "reader" : ""
+        }
+      ],
+      "08" : "",
+      "09" : ["", ""]
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "Nobyembre 13-19" : {
+      "Pagbasa sa Bibliya" : "Job 15-17",
+      "Awit": [90, 96, 118],
+      "Bahandi Gikan sa Pulong sa Diyos" : [
+        {
+          "ID" : "pk",
+          "Ulohan" : "{{Ayawg Sundoga si Elipaz Dihang Maghatag ug Paghupay}}",
+          "Minutos" : "10"
+        },
+        {
+          "ID" : "eb",
+          "Minutos" : "10"
+        },
+        {
+          "ID" : "pb",
+          "Minutos" : "4"
+        }
+      ],
+      "Magmaepektibo sa Ministeryo" : [
+        {
+          "ID" : "vpd",
+          "Minutos" : "5",
+          "Ulohan" : "Video sa Pagbalikduaw"
+        },
+        {
+          "ID" : "pd",
+          "Minutos": "3",
+          "Ulohan": "Pagbalikduaw"
+        },
+        {
+          "ID" : "psb",
+          "Minutos": "5",
+          "Ulohan": "Pagtuon sa Bibliya"
+        }
+      ],
+      "Kristohanong Pagkinabuhi": [
+        {
+          "ID" : "lp",
+          "Ulohan" : "Nagamandong Lawas Update #7",
+          "Minutos" : "15"
+        },
+        {
+          "ID" : "pkb",
+          "Ulohan" : "Pagtuon sa Kongregasyon sa Bibliya",
+          "Minutos" : "30"
+        }
+      ]
+    }
+  },
+  {
+    "Nobyembre 20-26" : {
+      "Pagbasa sa Bibliya" : "Job 18-19",
+      "Awit": [44, 90, 63],
+      "Bahandi Gikan sa Pulong sa Diyos" : [
+        {
+          "ID" : "pk",
+          "Ulohan" : "{{Ayawg Talikdi ang Imong mga Isigkamagsisimba}}",
+          "Minutos" : "10"
+        },
+        {
+          "ID" : "eb",
+          "Minutos" : "10"
+        },
+        {
+          "ID" : "pb",
+          "Minutos" : "4"
+        }
+      ],
+      "Magmaepektibo sa Ministeryo" : [
+        {
+          "ID" : "up",
+          "Minutos" : "5",
+          "Ulohan" : "Unang Pakig-estorya"
+        },
+        {
+          "ID" : "pd",
+          "Minutos": "3",
+          "Ulohan": "Pagbalikduaw"
+        },
+        {
+          "ID" : "pke",
+          "Minutos": "5",
+          "Ulohan": "Pakigpulong"
+        }
+      ],
+      "Kristohanong Pagkinabuhi": [
+        {
+          "ID" : "mhj",
+          "Ulohan" : "Mahimong Higala ni Jehova—Tabangi ang Uban",
+          "Minutos" : "5"
+        },
+        {
+          "ID" : "pv",
+          "Ulohan" : "{{Kahikayan sa Paghupay sa mga Nag-alagad sa Bethel}}",
+          "Minutos" : "10"
+        },
+        {
+          "ID" : "pkb",
+          "Ulohan" : "Pagtuon sa Kongregasyon sa Bibliya",
+          "Minutos" : "30"
+        }
+      ]
+    }
+  }
+]
