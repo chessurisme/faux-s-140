@@ -1,0 +1,63 @@
+[
+  {
+    "Nobyembre 13-19" : {
+      "Pagbasa sa Bibliya" : "Job 15-17",
+      "Awit": [90, 96, 118],
+      "Tsirman" : "Roberto Oria",
+      "Pag-ampo" : ["Roberto Oria", "Modesto Cagas"],
+      "Bahandi Gikan sa Pulong sa Diyos" : [
+        {
+          "ID" : "pk",
+          "Ulohan" : "{{Ayawg Sundoga si Elipaz Dihang Maghatag ug Paghupay}}",
+          "Minutos" : "10",
+          "Mamumulong" : "Lemuel Rin"
+        },
+        {
+          "ID" : "eb",
+          "Minutos" : "10",
+          "Handler" : "Randy Ranoco"
+        },
+        {
+          "ID" : "pb",
+          "Minutos" : "4",
+          "Gibahinan" : "Lawrence Tumol"
+        }
+      ],
+      "Magmaepektibo sa Ministeryo" : [
+        {
+          "ID" : "vp",
+          "Minutos" : "5",
+          "Ulohan" : "Video sa Pagbalikduaw"
+        },
+        {
+          "ID" : "pd",
+          "Minutos": "3",
+          "Ulohan": "Pagbalikduaw",
+          "Estudyante": "Julita Ranoco",
+          "Assistant" : "Virgie Cagas"
+        },
+        {
+          "ID" : "psb",
+          "Minutos": "5",
+          "Ulohan": "Pagtuon sa Bibliya",
+          "Estudyante": "Gleen Ranoco",
+          "Assistant" : "Jelly Magdura"
+        }
+      ],
+      "Kristohanong Pagkinabuhi": [
+        {
+          "ID" : "lp",
+          "Ulohan" : "Nagamandong Lawas Update #7",
+          "Minutos" : "15"
+        },
+        {
+          "ID" : "pkb",
+          "Ulohan" : "Pagtuon sa Kongregasyon sa Bibliya",
+          "Minutos" : "30",
+          "Handler" : "Modesto Cagas",
+          "Reader" : "Frederick Ranoco"
+        }
+      ]
+    }
+  }
+]
