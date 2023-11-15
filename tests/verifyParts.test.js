@@ -94,6 +94,50 @@ describe("Bahandi Gikan sa Pulong sa Diyos", () => {
     // Assert
     expect(result).toBe(false);
   });
+
+  // Pagbasa sa Bibliya
+  it("should return true if all parts are String", () => {
+    // Arrange
+    const parts = {
+      "id" : "pb",
+      "mins" : "4",
+      "apportioned" : "Frederico Smith Jr."
+    };
+    // Act
+    const result = verifyParts(parts);
+    
+    // Assert
+    expect(result).toBe(true);
+  });
+
+  it("should return false if any part is non-String", () => {
+    // Arrange
+    const parts = {
+      "id" : "pb",
+      "mins" : 4,
+      "apportioned" : "Frederico Smith Jr."
+    };
+
+    // Act
+    const result = verifyParts(parts);
+
+    // Assert
+    expect(result).toBe(false);
+  });
+
+  it("should return false if any part is missing", () => {
+    // Arrange
+    const parts = {
+      "id" : "pb",
+      "mins" : "4",
+    }
+
+    // Act
+    const result = verifyParts(parts);
+
+    // Assert
+    expect(result).toBe(false);
+  });
 });
 
 describe("Magmaepektibo sa Ministeryo", () => {
